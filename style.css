@@ -72,6 +72,7 @@ h2{
     border: 0.5px solid green;
     color: green;
     width: 23px;
+    height: 23px;
     text-align: center;
     display: inline-block;
 }
@@ -79,6 +80,7 @@ h2{
     border-radius: 50%;
     border: 0.5px solid red;
     color: red;
+    height: 23px;
     width: 23px;
     text-align: center;
     display: inline-block;

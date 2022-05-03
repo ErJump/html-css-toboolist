@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #f6f8f9;
+}
+/* header */
+header{
+    background-color: white;
+}
+.logo{
+    margin: 20px 0px 20px 20px;
+}
+.logo div{
+    font-weight: bolder;
+    font-size: 30px;
+    display: inline-block;
+}
+.logo img{
+    width: 50px;
+}
+/* main */
+
+.container{
+    width: 70%;
+    margin: 20px auto;
+    background-color: white;
+}
+/* sezione bottoni */
+#bottoni{
+    border-bottom: 2px solid #f6f8f9;
+    padding: 10px 0px 10px 30px;
+    margin-bottom: 20px;
+}
+#bottoni button{
+    border-radius: 5px;
+    padding: 10px;
+}
+#task{
+    background-color: #47adf1;
+    color: white;
+    border: 0.5px solid #47adf1;
+}
+#section{
+    background-color: white;
+    color: #747474;
+    border: 0.5px solid darkgray;
+}
+/* lista */
+#lista{
+    margin-left: 30px;
+}
+.eventi{
+    margin-bottom: 20px;
+}
+h2{
+    margin-bottom: 15px ;
+}
+.elemento{
+    margin-bottom: 15px;
+}
+.green{
+    border-radius: 50%;
+    border: 0.5px solid green;
+    color: green;
+    width: 23px;
+    text-align: center;
+    display: inline-block;
+}
+.red{
+    border-radius: 50%;
+    border: 0.5px solid red;
+    color: red;
+    width: 23px;
+    text-align: center;
+    display: inline-block;
+}
+.tag{
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+.editorial{
+    background-color: #47adf1;
+}
+.q1{
+    background-color: #9c72e4;
+}
+.recruiting{
+    background-color: #64c0a9;
+}
+.mobile{
+    background-color: #f29e33;   
+}
+.sales{
+    background-color: #b0c926;   
+}
+.website{
+    background-color: #d863a1;   
+}

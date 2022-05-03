@@ -12,22 +12,27 @@ header{
     background-color: white;
 }
 .logo{
-    margin: 20px 0px 20px 20px;
+    margin: 0px 0px 20px 20px;
+    padding: 20px 0;
 }
 .logo div{
     font-weight: bolder;
     font-size: 30px;
     display: inline-block;
+    vertical-align: middle;
 }
 .logo img{
     width: 50px;
+    vertical-align: middle;
 }
 /* main */
 
 .container{
     width: 70%;
     margin: 20px auto;
+    padding-bottom: 20px;
     background-color: white;
+    border-radius: 10px;
 }
 /* sezione bottoni */
 #bottoni{
